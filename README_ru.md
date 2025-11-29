@@ -1,5 +1,7 @@
 [![CRM Test Task CI](https://github.com/EdvardFarrow/lead-distributor-task/actions/workflows/ci.yml/badge.svg)](https://github.com/EdvardFarrow/lead-distributor-task/actions/workflows/ci.yml)
 
+[![en](https://img.shields.io/badge/lang-en-grey.svg)](README.md)
+
 # 🎯 CRM Lead Distributor Service
 
 Микросервис на **FastAPI** для автоматического распределения входящих лидов между операторами.
@@ -90,4 +92,5 @@ pytest -v
 * app/database.py — Конфигурация движка БД.
 
 * tests/ — Тесты API и сценариев.
+
 
